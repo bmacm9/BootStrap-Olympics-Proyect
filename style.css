@@ -1,0 +1,52 @@
+body {
+    overflow-x: hidden;
+}
+
+.contenedor {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.logo {
+    height: 40px;
+}
+
+.mainImage {
+    filter: brightness(40%);
+}
+
+.lema {
+    top: 50%;
+    transform: translateY(-40%);
+}
+
+.letra {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 4vw;
+}
+
+.imageSection {
+    max-height: 400px;
+}
+
+.jumBG {
+    background-color: white;
+}
+
+.footer {
+    background-color: rgb(233, 233, 233);
+}
+
+.col-12 {
+    padding-right: 0;
+}
+
+.redes {
+    height: 6vw;
+    max-height: 50px;
+}
+
+.gris {
+    background-color: rgb(240, 240, 240);
+}
